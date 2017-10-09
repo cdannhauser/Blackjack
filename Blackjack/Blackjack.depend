@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1507539647 source:c:\users\me\desktop\blackjack\blackjack.cpp
+	<iostream>
+	"Game.h"
+
+1507415687 c:\users\me\desktop\blackjack\include\network.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<thread>
+	<iostream>
+
+1507415668 source:c:\users\me\desktop\blackjack\src\network.cpp
+	"Network.h"
+
+1507541670 c:\users\me\desktop\blackjack\include\server.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<thread>
+	<mutex>
+	<iostream>
+	<sstream>
+	<list>
+	<vector>
+
+1507541214 source:c:\users\me\desktop\blackjack\src\server.cpp
+	"Server.h"
+
+1507499400 source:c:\users\me\desktop\blackjack\src\player.cpp
+	"Player.h"
+
+1507541666 c:\users\me\desktop\blackjack\include\player.h
+	<vector>
+	<string>
+	<iostream>
+
+1507544027 source:c:\users\me\desktop\blackjack\src\game.cpp
+	"Game.h"
+
+1507541770 c:\users\me\desktop\blackjack\include\game.h
+	"Player.h"
+	"Server.h"
+	<random>
+	<ctime>
+	<sstream>
+

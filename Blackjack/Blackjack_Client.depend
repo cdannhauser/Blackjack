@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1507417609 source:c:\users\me\desktop\blackjack\blackjack_client\blackjack_client.cpp
+	<iostream>
+	"Client.h"
+
+1507417672 c:\users\me\desktop\blackjack\blackjack_client\include\client.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<thread>
+	<iostream>
+
+1507417583 source:c:\users\me\desktop\blackjack\blackjack_client\src\client.cpp
+	"Client.h"
+
+1507544294 source:c:\users\me\desktop\blackjack\blackjack_client.cpp
+	<iostream>
+	"Client.h"
+
+1507544387 c:\users\me\desktop\blackjack\include\client.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<thread>
+	<iostream>
+
+1507534362 source:c:\users\me\desktop\blackjack\src\client.cpp
+	"Client.h"
+
